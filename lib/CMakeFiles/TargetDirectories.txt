@@ -1,0 +1,3 @@
+/home/ubuntu/rocksdb_interop/lib/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/rocksdb_interop/lib/CMakeFiles/rocksdb_interop.dir
+/home/ubuntu/rocksdb_interop/lib/CMakeFiles/edit_cache.dir
